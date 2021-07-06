@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
                 switch (i){
                     case 1:
                         if(map != null){
-                            map.setMapType(GoogleMap.MAP_TYPE_HYBRID);
+                            map.setMapType(GoogleMap.MAP_TYPE_NORMAL);
                         }
                         break;
                     case 2:
